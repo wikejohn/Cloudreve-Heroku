@@ -35,3 +35,4 @@ Cloudreve with redis的Docker版本
 [Info]    2020-07-18 18:36:54 初始化定时任务...
 [Info]    2020-07-18 18:36:54 当前运行模式：Master
 ```
+[定时访问](https://uptimerobot.com/)
