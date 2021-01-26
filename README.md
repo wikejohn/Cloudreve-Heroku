@@ -11,8 +11,8 @@ Cloudreve with redis的Docker版本
 ### 容器中的Cloudreve版本为 cloudreve_3.2.0_linux_amd64(#61e6d9b)
 ---
 ## 账户信息-请及时修改
-### 用户名：admin@cloudreve.org
-### 密码：vUUH4MpL
+### 用户名：	ceshi@cloudreve.com
+### 密码：12345678
 ---
 #### 可能会随Cloudreve仓库进行大版本更新
 #### 生成日志：
@@ -28,8 +28,8 @@ Cloudreve with redis的Docker版本
 
 [Info]    2020-07-18 18:36:53 初始化数据库连接
 [Info]    2020-07-18 18:36:53 开始进行数据库初始化...
-[Info]    2020-07-18 18:36:53 初始管理员账号：admin@cloudreve.org
-[Info]    2020-07-18 18:36:53 初始管理员密码：vUUH4MpL
+[Info]    2020-07-18 18:36:53 初始管理员账号：xxx@xxx.xxx
+[Info]    2020-07-18 18:36:53 初始管理员密码：xxxxxxxx
 [Info]    2020-07-18 18:36:54 数据库初始化结束
 [Info]    2020-07-18 18:36:54 初始化任务队列，WorkerNum = 10
 [Info]    2020-07-18 18:36:54 初始化定时任务...
